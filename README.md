@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 Put your `.ar` files in a directory, and use a `.cat` TSV catalog with a `#filename` column and `snr_xprof` values.  
 Only `.ar` with `snr_xprof` > 10 will be considered and plotted.  
-The blue peak regions will mark peaks with SNR > 10.
+The blue peak regions will mark peaks with SNR > 10, where the red-dashed lines are the peak center.
 
 Run the script:
 
