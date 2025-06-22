@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 """
+PeaRS – Peak-finding and SNR for Radio Signals
+A Python script for detecting and visualizing multiple pulse components in pulsar profiles using PSRCHIVE archives.  
+It is designed for use in fast radio burst (FRB) or pulsar studies.  
+For more details, please refer to Ho et al. 2025, MNRAS, Section 3.4.
 
 Author: Simon C.-C. Ho
 Email: simon.ho@anu.edu.au
