@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-Put your `.ar` files in a directory, and use a `.cat` TSV catalog with a `#filename` column and `snr_xprof` values.
+Put your `.ar` files in a directory, and use a `.cat` TSV catalog with a `#filename` column and `snr_xprof` values.  
 Only `.ar` with `snr_xprof` > 10 will be considered and plotted.
 
 Run the script:
