@@ -31,4 +31,3 @@ python scripts/detect_multipeak_pulses.py
 Plots will be saved to `testplots`.
 
 Example plot and tsv
-[combined_pulses_batch_1.pdf](https://github.com/user-attachments/files/20851555/combined_pulses_batch_1.pdf)
