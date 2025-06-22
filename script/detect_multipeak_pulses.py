@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+"""
+
+Author: Simon C.-C. Ho
+Email: simon.ho@anu.edu.au
+"""
+
 import os
 import matplotlib
 from matplotlib.ticker import FormatStrFormatter
