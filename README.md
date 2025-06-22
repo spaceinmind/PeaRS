@@ -1,6 +1,6 @@
 # Multi-Peak Pulse Analysis
 
-This repository contains a Python script for detecting and visualizing multiple pulse components in pulsar profiles using PSRCHIVE archives. It is designed for use in fast radio burst (FRB) or pulsar studies. For more details, please refer to Ho et al. 2025, MNRAS, Section 3.4.
+This repository contains a Python script for detecting and visualizing multiple pulse components in pulsar profiles using PSRCHIVE archives. It is designed for use in fast radio burst (FRB) or pulsar studies. For more details, please refer to Ho et al. 2025, MNRAS, Section 3.4.  
 
 ## Features
 
@@ -47,3 +47,6 @@ filename snr_1 phase_1 snr_2 phase_2 snr_3 phase_3 snr_4 phase_4
 /fred/oz002/users/sho/J1823-3021A/aug4_210s/pulse_80930893251.fluxcal 113.767 0.925 85.953 0.920 
 /fred/oz002/users/sho/J1823-3021A/aug4_210s/pulse_80930893251.fluxcal 113.767 0.925 85.953 0.920
 ```
+
+## Citation
+Please cite Ho et al. 2025, MNRAS if you use the code in your paper.
