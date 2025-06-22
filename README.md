@@ -29,7 +29,7 @@ Run the script:
 python scripts/detect_multipeak_pulses.py
 ```
 
-Plots will be saved to `testplots`.
+Plots will be saved to `testplots`.  
 Five `.ar` panels will be shown at a time and saved.
 
 ## Example plot
