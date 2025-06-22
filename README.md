@@ -8,6 +8,7 @@ This repository contains a Python script for detecting and visualizing multiple 
 - Peak detection and multi-component fitting
 - S/N thresholding
 - Automatic plotting with peak annotations
+- List of the peak positions and snr in .tsv
 
 ## Requirements
 
