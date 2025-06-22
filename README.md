@@ -49,4 +49,4 @@ filename snr_1 phase_1 snr_2 phase_2 snr_3 phase_3 snr_4 phase_4
 ```
 
 ## Citation
-Please cite (Ho et al. 2025, MNRAS][https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/staf995/8168211?utm_source=advanceaccess&utm_campaign=mnras&utm_medium=email&login=false) if you use the code in your paper.
+Please cite [Ho et al. 2025, MNRAS](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/staf995/8168211?utm_source=advanceaccess&utm_campaign=mnras&utm_medium=email&login=false) if you use the code in your paper.
