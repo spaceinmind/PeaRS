@@ -34,7 +34,7 @@ Example plot and tsv
 ![Description of image](plots/combined_pulses_batch_1.png)
 ![Description of image](plots/combined_pulses_batch_2.png)
 
-```
+```tsv
 filename snr_1 phase_1 snr_2 phase_2 snr_3 phase_3 snr_4 phase_4 
 /fred/oz002/users/sho/J1823-3021A/aug20_470s/pulse_80930966750.fluxcal 17.012 0.900 12.121 0.887 8.192 0.915 
 /fred/oz002/users/sho/J1823-3021A/aug20_470s/pulse_80930966750.fluxcal 17.012 0.900 12.121 0.887 8.192 0.915 
