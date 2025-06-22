@@ -12,8 +12,8 @@ plt.rcParams['font.family'] = 'serif'
 plt.rcParams['font.size'] = 32
 
 # Read and save
-catname = 'multi_git.cat'
-savename = 'pulse_top4_summary.tsv'
+catname = 'catalog/multi_git.cat'
+savename = 'results.tsv/pulse_top4_summary.tsv'
 
 # --- Utility functions ---
 
@@ -70,7 +70,7 @@ df = pd.read_csv('~/python/multi_git.cat', delimiter='\t')
 df_snr10 = df[df['snr_xprof'] > 10]
 file_list = df_snr10['#filename'].apply(os.path.expanduser).tolist()
 
-output_dir = 'testplot'
+output_dir = 'plots'
 os.makedirs(output_dir, exist_ok=True)
 
 # Create a list to store pulse measurements for output
