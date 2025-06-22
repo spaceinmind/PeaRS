@@ -21,6 +21,7 @@ pip install -r requirements.txt
 ## Usage
 
 Put your `.ar` files in a directory, and use a `.cat` TSV catalog with a `#filename` column and `snr_xprof` values.
+Only `.ar` with `snr_xprof` > 10 will be considered and plotted.
 
 Run the script:
 
@@ -29,13 +30,14 @@ python scripts/detect_multipeak_pulses.py
 ```
 
 Plots will be saved to `testplots`.
+Five `.ar` panels will be shown at a time and saved.
 
-Example plot
+## Example plot
 ![Description of image](plots/combined_pulses_batch_1.png)
 ![Description of image](plots/combined_pulses_batch_2.png)
 
 
-Example .tsv
+## Example .tsv
 ```tsv
 filename snr_1 phase_1 snr_2 phase_2 snr_3 phase_3 snr_4 phase_4 
 /fred/oz002/users/sho/J1823-3021A/aug20_470s/pulse_80930966750.fluxcal 17.012 0.900 12.121 0.887 8.192 0.915 
