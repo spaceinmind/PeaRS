@@ -33,7 +33,7 @@ python scripts/detect_multipeak_pulses.py
 Plots will be saved to `testplots`.  
 Five `.ar` panels will be shown at a time.
 
-## Example plot
+## Example plots
 <img src="plots/combined_pulses_batch_1.png" alt="Batch 1" width="800">
 <img src="plots/combined_pulses_batch_2.png" alt="Batch 2" width="800">
 
