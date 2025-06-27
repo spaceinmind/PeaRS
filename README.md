@@ -1,4 +1,11 @@
 # PeaRS – Peak-finding and SNR for Radio Signals
+# ==============================================================================
+#  ██████╗ ███████╗ █████╗ ██████╗ ███████╗
+#  ██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔════╝
+#  ██████╔╝█████╗  ███████║██║  ██║███████╗
+#  ██╔═══╝ ██╔══╝  ██╔══██║██║  ██║╚════██║
+#  ██║     ███████╗██║  ██║██████╔╝███████║
+#  ╚═╝     ╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝
 
 This repository contains a Python script for detecting and visualizing multiple pulse components in pulsar profiles using PSRCHIVE archives. It is designed for use in fast radio burst (FRB) or pulsar studies. For more details, please refer to [Ho et al. 2025, MNRAS](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/staf995/8168211?utm_source=advanceaccess&utm_campaign=mnras&utm_medium=email&login=false), Section 3.4.  
 
